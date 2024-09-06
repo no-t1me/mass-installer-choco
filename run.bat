@@ -28,8 +28,8 @@ choco install equalizerapo -y
 choco install protonpass -y
 pause
 
- start "" https://www.nvidia.com/pl-pl/drivers/
- start "" https://www.gigabyte.pl/products/page/mb/B650-AORUS-ELITE-AX-rev-1x/support#support-dl
- start "" https://store.steampowered.com/about/?l=polish
- start "" https://www.argusmonitor.com/
+start "" https://www.nvidia.com/pl-pl/drivers/
+start "" https://www.gigabyte.pl/products/page/mb/B650-AORUS-ELITE-AX-rev-1x/support#support-dl
+start "" https://store.steampowered.com/about/?l=polish
+start "" https://www.argusmonitor.com/
 start "" https://sourceforge.net/projects/peace-equalizer-apo-extension/
